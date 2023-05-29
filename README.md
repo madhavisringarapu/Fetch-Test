@@ -10,8 +10,8 @@ madhavisringarapu@madhavis-MacBook-Pro Documents % python3 test.py
 Enter the path to the YAML file: /Users/madhavisringarapu/Documents/input.yaml
 
 **Output format** : Below is the output when i tested my code.
-madhavisringarapu@madhavis-MacBook-Pro Documents % python3 test.py                                 
-Enter the path to the YAML file: /Users/madhavisringarapu/Documents/input.yaml
+madhavisringarapu@madhavis-MacBook-Pro Documents % python3 test.py.                                
+Enter the path to the YAML file: /Users/madhavisringarapu/Documents/input.yaml.
 fetch.com index page has 0.0% availability percentage
 fetch.com careers page has 0.0% availability percentage
 fetch.com some post endpoint has 0.0% availability percentage
