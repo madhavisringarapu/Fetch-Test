@@ -6,11 +6,11 @@ Please install pyyaml and requests libraries  before running the code.
 
 execute the program using below command it will prompt for yaml file path like below,provide the yaml file path as a input
 
-madhavisringarapu@madhavis-MacBook-Pro Documents % python3 test.py                                 
+madhavisringarapu@madhavis-MacBook-Pro Documents % python3 availability.py                                 
 Enter the path to the YAML file: /Users/madhavisringarapu/Documents/input.yaml
 
 **Output format** : Below is the output when i tested my code.
-madhavisringarapu@madhavis-MacBook-Pro Documents % python3 test.py                                
+madhavisringarapu@madhavis-MacBook-Pro Documents % python3 availability.py                                
 Enter the path to the YAML file: /Users/madhavisringarapu/Documents/input.yaml
 fetch.com index page has 0.0% availability percentage
 fetch.com careers page has 0.0% availability percentage
